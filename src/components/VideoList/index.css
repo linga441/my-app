@@ -1,0 +1,13 @@
+.video-list {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-list--loading, .video-list--no-result, .video-list--error {
+  color: #666666;
+  font-size: 0.75rem;
+  padding: 1rem;
+}

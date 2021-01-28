@@ -1,0 +1,28 @@
+.video-item {
+  display: flex;
+  margin-bottom: 1rem;
+  width: 50vw;
+}
+
+.video-item-player {
+  margin-right: 2rem;
+}
+
+.video-item-title {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.video-item-description {
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.video-item-published--date {
+    font-size: 0.75rem;
+}
+
+.video-item-player-frame {
+  border: 1px solid #cccccc;
+  box-shadow: 0 0 5px #cccccc;
+}
